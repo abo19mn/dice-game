@@ -57,6 +57,8 @@ document.querySelector(".btn-hold").addEventListener("click", function () {
   }
 });
 
+console.log("seke was here");
+
 // NEW товчийг дарах үед болох фанкшин
 document.querySelector(".btn-new").addEventListener("click", function () {
   newGame();
